@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:seekbar="http://schemas.android.com/apk/res-auto"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="测试点赞控件"/>
+
+    <com.csf.thumbupseekbarlib.ThumbUpStartSeekbar
+        android:id="@+id/activity_choose_difficulty_rangeSeekbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:padding="20dp"
+        seekbar:spaceBetweenStart="9dp"
+        seekbar:cursorHight="30dp"
+        seekbar:cursorWidth="31dp"
+        seekbar:startCount="5"
+        seekbar:selectedDrawable="@drawable/thumb_up_start_selected"
+        seekbar:defaultDrawable="@drawable/thumb_up_start_default"
+        seekbar:maskDrawable="@drawable/thumb_up_start_mask"
+        />
+    <!--seekbar:defaultSelectionIndex="-1"-->
+
+</LinearLayout>

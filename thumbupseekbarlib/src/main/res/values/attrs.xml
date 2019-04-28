@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ThumbUpStartSeekbar">
+
+        <attr name="cursorWidth" format="dimension" />                                       //自定义seekbar拖动块的宽
+        <attr name="cursorHight" format="dimension" />                                       //自定义seekbar拖动块的高
+        <attr name="startCount" format="integer" />                                          //自定义seekbar刻度线数量
+        <attr name="spaceBetweenStart" format="dimension" />                                 //自定义seekbar刻度线之间的距离
+        <attr name="defaultSelectionIndex" format="integer"/>                                //自定义seekbar默认刻度坐标
+        <attr name="autoMoveDuration" format="integer" />                                    //自定义seekbar拖动动画时间
+        <attr name="selectedDrawable" format="reference" />                                  //自定义seekbar选择光标图片
+        <attr name="defaultDrawable" format="reference" />                                   //自定义seekbar默认光标图片
+        <attr name="maskDrawable" format="reference" />                                      //自定义seekbar蒙版光标图片
+
+
+
+    </declare-styleable>
+</resources>
