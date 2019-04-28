@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-import com.csf.thumbupseekbarlib.ThumbUpSeekBarActivity;
+import com.shawnalex.thumbupseekbarlib.ThumbUpSeekBarActivity;
 
 public class MainActivity extends AppCompatActivity {
 

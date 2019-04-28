@@ -1,4 +1,4 @@
-package com.csf.thumbupseekbarlib;
+package com.shawnalex.thumbupseekbarlib;
 
 
 /**

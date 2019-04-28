@@ -1,8 +1,4 @@
-package com.csf.thumbupseekbarlib;
-
-import org.junit.Test;
-
-import static org.junit.Assert.*;
+package com.shawnalex.thumbupseekbarlib;
 
 /**
  * Example local unit test, which will execute on the development machine (host).

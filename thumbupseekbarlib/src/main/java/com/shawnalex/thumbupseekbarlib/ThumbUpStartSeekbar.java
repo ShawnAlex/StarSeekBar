@@ -1,4 +1,4 @@
-package com.csf.thumbupseekbarlib;
+package com.shawnalex.thumbupseekbarlib;
 
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;
@@ -14,14 +14,13 @@ import android.graphics.drawable.Drawable;
 import android.os.Build;
 import android.support.v4.content.ContextCompat;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.animation.DecelerateInterpolator;
 import android.widget.Scroller;
 
 /**
- * @author chenxiao
+ * Created by ShawnAlex on 2018/3/13.
  */
 @SuppressLint({"DrawAllocation", "NewApi"})
 @TargetApi(Build.VERSION_CODES.FROYO)

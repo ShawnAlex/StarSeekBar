@@ -1,8 +1,12 @@
-package com.csf.thumbupseekbarlib;
+package com.shawnalex.thumbupseekbarlib;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
+
+/**
+ * Created by ShawnAlex on 2018/3/13.
+ */
 
 public class ThumbUpSeekBarActivity extends Activity {
 

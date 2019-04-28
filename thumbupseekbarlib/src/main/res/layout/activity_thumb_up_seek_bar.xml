@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:text="测试点赞控件"/>
 
-    <com.csf.thumbupseekbarlib.ThumbUpStartSeekbar
+    <com.shawnalex.thumbupseekbarlib.ThumbUpStartSeekbar
         android:id="@+id/activity_choose_difficulty_rangeSeekbar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

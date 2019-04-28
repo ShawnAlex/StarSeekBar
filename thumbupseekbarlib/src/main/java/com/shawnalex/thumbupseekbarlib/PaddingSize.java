@@ -1,7 +1,7 @@
-package com.csf.thumbupseekbarlib;
+package com.shawnalex.thumbupseekbarlib;
 
 /**
- * Created by chenxiao on 2018/3/13.
+ * Created by ShawnAlex on 2018/3/13.
  */
 
 public class PaddingSize {
